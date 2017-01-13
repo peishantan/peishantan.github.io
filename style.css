@@ -7,6 +7,6 @@ h2 {
 }
 
 img {
-  width: 10%;
+  max-width: 250px;
   height: auto;
 }
